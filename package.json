@@ -1,8 +1,8 @@
 {
   "name": "portfolio-vuepress",
   "scripts": {
-    "build": "vuepress build docs",
-    "develop": "vuepress dev docs"
+    "build": "vuepress build portfolio",
+    "develop": "vuepress dev portfolio"
   },
   "author": "Nichlas W. Andersen",
   "license": "MIT",
