@@ -1,8 +1,10 @@
 ---
 title: 2020 Reflection
 date: 2018-08-09T17:49:28.000+00:00
-excerpt: This works like expected, this text is only visible on the front page where
-  all the journal posts are listed
+excerpt: "'When nothing seems to help, I go and look at a stonecutter hammering away
+  at his rock, perhaps a hundred times without as much as a crack showing in it. Yet
+  at the hundred and first blow, it will split into two and i know it wasn’t that
+  last blow that did it - but all that had gone before.’ "
 
 ---
 # Content management and auto deployment for VuePress
