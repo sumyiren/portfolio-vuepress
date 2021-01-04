@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: Hi I’m <strong>Gabby</strong>, welcome<br>
+hero_text: Hi I’m <strong>Gabby</strong>, welcome
 title: Hero
 
 ---
