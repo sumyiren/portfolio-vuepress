@@ -4,17 +4,7 @@ date: 2018-08-09T17:49:28.000+00:00
 excerpt: "'When nothing seems to help, I go and look at a stonecutter hammering away
   at his rock, perhaps a hundred times without as much as a crack showing in it. Yet
   at the hundred and first blow, it will split into two and i know it wasn’t that
-  last blow that did it - but all that had gone before.’ \n\n2020 - Each day is a
-  day of me hammering away my rock. It’s a solid year of developing new habits - exercising,
-  planning, leading - and most importantly, a year where I learned to learn. To be
-  fascinated by my surroundings. To pursue my curiosity. To experience God’s love
-  in greater depth. To be in uncomfortable situations - because growing is not easy.
-  \ \n\nSo here’s to 2020. For God’s unending love that's new every morning. For His
-  grace that teaches me\n\nTo love difficult people \n\nTo inspire people closest
-  to me  \n\nTo give time and energy generously\n\nTo trust and listen only to Him
-  \n\nTo loving someone again \n\nTo smiling each day because He is good\n\nTo know
-  that God has my best interest when others don’t\n\n\n\nI sought the Lord, and he
-  answered me.\n\nHe delivered me from all my fears\n\nPsalm 34:4"
+  last blow that did it - but all that had gone before.’ "
 
 ---
 # Content management and auto deployment for VuePress
