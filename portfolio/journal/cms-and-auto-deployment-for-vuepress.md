@@ -21,7 +21,7 @@ excerpt: "'When nothing seems to help, I go and look at a stonecutter hammering 
 
 Let's check out how we can manage the content from within Forestry and automatically deploy our VuePress site.
 
-## Manage your content with Forestry
+## ![](/upload/photo-1504198322253-cfa87a0ff25f.jpeg)Manage your content with Forestry
 
 This theme is pre-configured and works out of the box with Forestry. Create an account at [Forestry](https://forestry.io "Forestry") and import your repository. You can now edit, manage and preview your content.
 
